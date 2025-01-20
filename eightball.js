@@ -30,7 +30,7 @@ var userName = 'jane';
     eightBall = 'Signs point to yes';
     break;
     default:
-      console.log('You\'re unfortunate!');
+      console.log('You\'re unfortuna!');
     break;
  }
  console.log(`The Magic Eight Ball\'s answer is... ${eightBall}`); 
